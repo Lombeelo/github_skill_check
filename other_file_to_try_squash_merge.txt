@@ -1,0 +1,3 @@
+second edit. did it above line somehow lol
+nvim first edit
+actual line i wanted to write
